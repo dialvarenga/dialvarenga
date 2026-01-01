@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Oi, eu sou a Diana
 
 <!--
 **dialvarenga/dialvarenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
